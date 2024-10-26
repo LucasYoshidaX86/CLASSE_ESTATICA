@@ -9,6 +9,8 @@ Descrição do projeto: Este projeto cria um sistema simples utilizando a lingua
 - Após criar a classe, implemente uma classe principal (Main) que chame cada um dos métodos da classe ConversorUnidades e exiba o resultado no console.
 
   Diagrama:
+
+  
 ![Acesso diagrama UML](https://github.com/LucasYoshidaX86/CLASSE_ESTATICA/blob/main/DiagramaConversorUnidades.png)
 
 🚀 Começando Para iniciar o desenvolvimento do projeto, clone o repositório do GitHub e abra o projeto no Eclipse. Certifique-se de ter o JDK instalado em sua máquina.
