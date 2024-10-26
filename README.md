@@ -8,6 +8,9 @@ Descrição do projeto: Este projeto cria um sistema simples utilizando a lingua
 - gramasParaLibras(double gramas): converte uma massa em gramas para libras.
 - Após criar a classe, implemente uma classe principal (Main) que chame cada um dos métodos da classe ConversorUnidades e exiba o resultado no console.
 
+  Diagrama:
+![Acesso diagrama UML](https://github.com/LucasYoshidaX86/CLASSE_ESTATICA/blob/main/DiagramaConversorUnidades.png)
+
 🚀 Começando Para iniciar o desenvolvimento do projeto, clone o repositório do GitHub e abra o projeto no Eclipse. Certifique-se de ter o JDK instalado em sua máquina.
 
 📋 Pré-requisitos JDK 17 Eclipse IDE (versão 2024-03) Para instalar o JDK, acesse o site oficial da Oracle e siga as instruções. O Eclipse pode ser baixado no site da Eclipse Foundation.
